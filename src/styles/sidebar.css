@@ -1,0 +1,27 @@
+.side-container {
+    height: 800px;
+    top:80px;
+    margin: 20px;
+    grid-column: 5/7;
+    position: sticky;
+    background-color: rgba(240, 248, 255, 0.664);
+    border-radius: 30px;
+}
+
+.side-content {
+    margin: 20px;
+}
+
+.side-most-value {
+    margin: 50px 20px;
+}
+
+.side-publicity {
+    margin: 20px;
+}
+
+
+.publicity-1 {
+    border: 2px solid black;
+    height: 200px;
+}

@@ -1,0 +1,20 @@
+.navbar-container {
+    height: 60px;
+    margin: 20px;
+    grid-column: 1/7;
+}
+
+.nav-item {
+    display: inline-block;
+    padding:  0 20px;
+    margin: 0 20px;
+    font-size: 22px;
+    border-radius: 17px;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+.nav-item:hover {
+    background-color: rgb(255, 119, 56);
+    border-radius: 10px;
+}

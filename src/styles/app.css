@@ -1,0 +1,8 @@
+.app-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+
+    margin: auto;
+    max-width:  1800px; /* 1200px; */
+    padding: 100px 0; 
+}

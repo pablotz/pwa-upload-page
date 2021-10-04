@@ -1,0 +1,6 @@
+.main-container {
+    margin: 20px;
+    grid-column: 1/5;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}

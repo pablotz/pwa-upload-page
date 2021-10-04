@@ -1,0 +1,21 @@
+.footer-container {
+    position: relative;
+    background-color: rgb(51, 51, 51);
+    height: 20vh;
+    margin-top: 110px;
+    grid-column: 1/7;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    color: rgb(231, 217, 217);
+}
+
+.footer-title {
+    text-align: center;
+    margin-top: 12%;
+    grid-column: 1/3;
+}
+
+.copyright {
+    grid-column: 5/7;
+    text-align: center;
+}
